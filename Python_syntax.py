@@ -1,5 +1,5 @@
 def foo():
-    return x+4
 
+    return x+5
 x=2
 print(foo())
